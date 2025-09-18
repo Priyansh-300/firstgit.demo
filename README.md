@@ -1,6 +1,6 @@
 # firstgit.demo
-<h1>this is my first git. 
-Author - Priyanshu.
-Fan of- Charles Babbage.
+<h1>This is my first git.</h1><br> 
+Author - <u>Priyanshu</u><br>
+Fan of- Charles Babbage<br>
 inspired by - New innovation
 
